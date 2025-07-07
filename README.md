@@ -14,6 +14,6 @@ We're working on several subprojects:
 3. MathAnnotator is a tool to help annotate math concepts in sentences. The tool is available at https://gaoq111.github.io/math_concept_annotation/.  Our preprint is:
    * [Extracting Mathematical Concepts with Large Language Models](https://arxiv.org/pdf/2309.00642) CEUR Workshop Proceedings (CEUR-WS.org), 2023.
   
-4. We propose to NLP process, using spaCy, as many of the open-source maths books recommended by the AIM (American Institute of Mathematics)  in their [Open Textbook Initiative](https://textbooks.aimath.org/). This is work with Andrea Ferreira and others, see:
-   *  [Linear Algebra](https://github.com/andreago9/MathCorpus-LAHefferonPDF),  Hefferon
-   *  [Abstract Algebra](https://github.com/andreago9/MathCorpus-AATA), Judson 
+4. We propose to NLP process, using spaCy, as many of the open-source maths books recommended by the AIM (American Institute of Mathematics)  in their [Open Textbook Initiative](https://textbooks.aimath.org/). This is work with Andrea Ferreira, see:
+   *  [Building a Compact Math Corpus](https://github.com/andreafer-uni/Compact-Math-Corpus)
+     
